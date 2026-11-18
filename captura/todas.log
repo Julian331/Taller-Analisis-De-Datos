@@ -1,0 +1,922 @@
+== Corrida c01  A=172.18.51.147 → B=172.18.48.1  (129 fases, 988 s de tráfico) ==
+fase01  base      4 Mbit/s  15 s   descartes en la fase:      0
+fase02  salto    12 Mbit/s  12 s   descartes en la fase:   2885
+fase03  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase07  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase08  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase09  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase10  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase11  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase12  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase13  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase14  rampa    20 Mbit/s   8 s   descartes en la fase:   8579
+fase15  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase16  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase17  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase18  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase19  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase20  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase21  rampa    10 Mbit/s   4 s   descartes en la fase:    104
+fase22  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase23  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase24  salto    30 Mbit/s  15 s   descartes en la fase:  31742
+fase25  rec       5 Mbit/s  10 s   descartes en la fase:      0
+fase26  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase27  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase28  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase29  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase30  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase31  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase32  salto    30 Mbit/s  15 s   descartes en la fase:  31741
+fase33  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase34  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase35  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase36  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase37  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase38  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase39  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase40  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase41  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase42  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase43  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase44  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase45  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase46  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase47  rec       5 Mbit/s  10 s   descartes en la fase:      0
+fase48  salto    12 Mbit/s  12 s   descartes en la fase:   2885
+fase49  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase50  salto    14 Mbit/s  15 s   descartes en la fase:   6741
+fase51  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase52  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase53  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase54  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase55  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase56  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase57  rec       6 Mbit/s  13 s   descartes en la fase:      0
+fase58  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase59  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase60  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase61  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase62  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase63  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase64  salto    14 Mbit/s  12 s   descartes en la fase:   5385
+fase65  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase66  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase67  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase68  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase69  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase70  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase71  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase72  salto    12 Mbit/s   8 s   descartes en la fase:   2039
+fase73  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase74  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase75  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase76  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase77  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase78  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase79  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase80  salto    30 Mbit/s  10 s   descartes en la fase:  21150
+fase81  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase82  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase83  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase87  rampa  10.5 Mbit/s   5 s   descartes en la fase:    489
+fase88  rampa    12 Mbit/s   6 s   descartes en la fase:   1844
+fase89  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase90  salto    30 Mbit/s   8 s   descartes en la fase:  17176
+fase91  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase92  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase93  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase94  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase95  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase96  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase97  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase98  salto    30 Mbit/s   8 s   descartes en la fase:  16913
+fase99  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase100  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase101  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase102  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase103  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase104  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase105  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase106  salto    20 Mbit/s  15 s   descartes en la fase:  16117
+fase107  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase108  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase109  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase110  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase111  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase112  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase113  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase114  salto    14 Mbit/s  12 s   descartes en la fase:   5385
+fase115  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase116  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase117  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase118  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase119  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase120  rampa    14 Mbit/s  10 s   descartes en la fase:   4481
+fase121  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase122  salto    12 Mbit/s   8 s   descartes en la fase:   1911
+fase123  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase124  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase125  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase126  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase127  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase128  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase129  rec       5 Mbit/s  10 s   descartes en la fase:      0
+
+== Resumen c01 ==
+Descartes TBF en la corrida:  243925
+Contador acumulado:  JSON = 246147   texto (dropped) = 246147
+Paquetes en la traza: 785427   Muestras de cola: 20526
+Intervalo entre muestras: medio 51.2 ms, p99 50.6 ms, máximo 1101.2 ms
+tcpdump:
+785427 packets captured
+785427 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794977559.519350,46
+1794977559.523942,1242
+Listo: /root/lab/datos/c01
+== Corrida c02  A=172.18.51.147 → B=172.18.48.1  (127 fases, 960 s de tráfico) ==
+fase01  base      4 Mbit/s  18 s   descartes en la fase:      0
+fase02  salto    14 Mbit/s  15 s   descartes en la fase:   6742
+fase03  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase07  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase08  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase09  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase10  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase11  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase12  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase13  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase14  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase15  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase16  salto    14 Mbit/s  12 s   descartes en la fase:   5385
+fase17  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase18  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase19  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase20  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase21  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase22  rampa    20 Mbit/s  10 s   descartes en la fase:  10731
+fase23  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase24  salto    30 Mbit/s  10 s   descartes en la fase:  21150
+fase25  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase26  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase27  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase28  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase29  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase30  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase31  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase32  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase33  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase34  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase35  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase36  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase37  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase38  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase39  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase40  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase41  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase42  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase43  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase44  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase45  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase46  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase47  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase48  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase49  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase50  salto    14 Mbit/s  15 s   descartes en la fase:   6741
+fase51  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase52  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase53  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase54  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase55  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase56  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase57  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase58  salto    30 Mbit/s  12 s   descartes en la fase:  25387
+fase59  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase60  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase61  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase62  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase63  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase64  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase65  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase66  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase67  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase68  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase69  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase70  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase71  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase72  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase73  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase74  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase75  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase76  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase77  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase78  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase79  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase80  salto    30 Mbit/s  15 s   descartes en la fase:  31742
+fase81  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase82  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase83  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase87  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase88  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase89  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase90  salto    20 Mbit/s   8 s   descartes en la fase:   8577
+fase91  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase92  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase93  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase94  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase95  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase96  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase97  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase98  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase99  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase100  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase101  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase102  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase103  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase104  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase105  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase106  salto    14 Mbit/s  15 s   descartes en la fase:   6741
+fase107  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase108  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase109  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase110  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase111  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase112  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase113  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase114  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase115  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase116  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase117  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase118  rampa    20 Mbit/s  10 s   descartes en la fase:  10735
+fase119  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase120  salto    20 Mbit/s  15 s   descartes en la fase:  16117
+fase121  rec       6 Mbit/s  13 s   descartes en la fase:      0
+fase122  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase123  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase124  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase125  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase126  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase127  rec       5 Mbit/s  15 s   descartes en la fase:      0
+
+== Resumen c02 ==
+Descartes TBF en la corrida:  271445
+Contador acumulado:  JSON = 517592   texto (dropped) = 517592
+Paquetes en la traza: 753589   Muestras de cola: 20180
+Intervalo entre muestras: medio 51.3 ms, p99 50.5 ms, máximo 1070.1 ms
+tcpdump:
+753589 packets captured
+753589 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794978614.362799,46
+1794978614.367771,1242
+Listo: /root/lab/datos/c02
+== Corrida c03  A=172.18.51.147 → B=172.18.48.1  (131 fases, 975 s de tráfico) ==
+fase01  base      5 Mbit/s  17 s   descartes en la fase:      0
+fase02  salto    14 Mbit/s  10 s   descartes en la fase:   4482
+fase03  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase07  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase08  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase09  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase10  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase11  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase12  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase13  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase14  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase15  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase16  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase17  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase18  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase19  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase20  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase21  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase22  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase23  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase24  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase25  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase26  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase27  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase28  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase29  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase30  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase31  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase32  salto    20 Mbit/s  12 s   descartes en la fase:  12885
+fase33  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase34  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase35  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase36  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase37  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase38  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase39  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase40  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase41  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase42  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase43  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase44  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase45  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase46  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase47  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase48  salto    30 Mbit/s   8 s   descartes en la fase:  16913
+fase49  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase50  salto    20 Mbit/s  12 s   descartes en la fase:  12885
+fase51  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase52  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase53  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase54  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase55  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase56  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase57  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase58  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase59  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase60  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase61  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase62  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase63  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase64  salto    20 Mbit/s   8 s   descartes en la fase:   8578
+fase65  rec       5 Mbit/s  10 s   descartes en la fase:      0
+fase66  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase67  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase68  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase69  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase70  rampa    20 Mbit/s  10 s   descartes en la fase:  10731
+fase71  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase72  salto    12 Mbit/s   8 s   descartes en la fase:   1911
+fase73  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase74  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase75  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase76  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase77  rampa  10.5 Mbit/s   3 s   descartes en la fase:    225
+fase78  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase79  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase80  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase81  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase82  salto    14 Mbit/s  10 s   descartes en la fase:   4482
+fase83  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase87  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase88  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase89  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase90  salto    12 Mbit/s  12 s   descartes en la fase:   2887
+fase91  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase92  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase93  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase94  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase95  rampa  10.5 Mbit/s   3 s   descartes en la fase:    225
+fase96  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase97  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase98  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase99  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase100  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase101  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase102  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase103  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase104  salto    30 Mbit/s  10 s   descartes en la fase:  21148
+fase105  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase106  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase107  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase108  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase109  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase110  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase111  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase112  salto    20 Mbit/s   8 s   descartes en la fase:   8577
+fase113  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase114  salto    20 Mbit/s  15 s   descartes en la fase:  16116
+fase115  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase116  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase117  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase118  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase119  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase120  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase121  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase122  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase123  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase124  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase125  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase126  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase127  rec       6 Mbit/s  13 s   descartes en la fase:      0
+fase128  salto    14 Mbit/s  10 s   descartes en la fase:   4481
+fase129  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase130  salto    14 Mbit/s  15 s   descartes en la fase:   6741
+fase131  rec       5 Mbit/s  15 s   descartes en la fase:      0
+
+== Resumen c03 ==
+Descartes TBF en la corrida:  221393
+Contador acumulado:  JSON = 738985   texto (dropped) = 738985
+Paquetes en la traza: 755197   Muestras de cola: 20144
+Intervalo entre muestras: medio 51.4 ms, p99 50.8 ms, máximo 1123.0 ms
+tcpdump:
+755197 packets captured
+755197 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794979652.342927,46
+1794979652.350084,1242
+Listo: /root/lab/datos/c03
+== Corrida c04  A=172.18.51.147 → B=172.18.48.1  (127 fases, 968 s de tráfico) ==
+fase01  base      6 Mbit/s  18 s   descartes en la fase:      0
+fase02  salto    14 Mbit/s  12 s   descartes en la fase:   5386
+fase03  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase07  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase08  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase09  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase10  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase11  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase12  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase13  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase14  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase15  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase16  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase17  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase18  salto    30 Mbit/s  15 s   descartes en la fase:  31744
+fase19  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase20  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase21  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase22  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase23  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase24  rampa    14 Mbit/s  10 s   descartes en la fase:   4481
+fase25  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase26  salto    20 Mbit/s  12 s   descartes en la fase:  12886
+fase27  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase28  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase29  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase30  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase31  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase32  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase33  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase34  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase35  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase36  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase37  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase38  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase39  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase40  rampa    20 Mbit/s   6 s   descartes en la fase:   6425
+fase41  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase42  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase43  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase44  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase45  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase46  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase47  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase48  salto    20 Mbit/s   8 s   descartes en la fase:   8578
+fase49  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase50  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase51  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase52  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase53  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase54  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase55  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase56  salto    12 Mbit/s  12 s   descartes en la fase:   2885
+fase57  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase58  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase59  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase60  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase61  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase62  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase63  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase64  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase65  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase66  salto    20 Mbit/s  15 s   descartes en la fase:  16116
+fase67  rec       5 Mbit/s  10 s   descartes en la fase:      0
+fase68  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase69  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase70  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase71  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase72  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase73  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase74  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase75  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase76  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase77  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase78  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase79  rec       5 Mbit/s  11 s   descartes en la fase:      0
+fase80  salto    20 Mbit/s   8 s   descartes en la fase:   8578
+fase81  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase82  salto    14 Mbit/s  10 s   descartes en la fase:   4482
+fase83  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase87  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase88  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase89  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase90  salto    30 Mbit/s  15 s   descartes en la fase:  31742
+fase91  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase92  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase93  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase94  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase95  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase96  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase97  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase98  salto    20 Mbit/s  15 s   descartes en la fase:  16117
+fase99  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase100  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase101  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase102  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase103  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase104  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase105  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase106  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase107  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase108  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase109  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase110  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase111  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase112  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase113  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase114  salto    14 Mbit/s  12 s   descartes en la fase:   5386
+fase115  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase116  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase117  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase118  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase119  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase120  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase121  rec       6 Mbit/s  13 s   descartes en la fase:      0
+fase122  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase123  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase124  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase125  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase126  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase127  rec       6 Mbit/s  10 s   descartes en la fase:      0
+
+== Resumen c04 ==
+Descartes TBF en la corrida:  258694
+Contador acumulado:  JSON = 997679   texto (dropped) = 997679
+Paquetes en la traza: 765418   Muestras de cola: 19814
+Intervalo entre muestras: medio 50.8 ms, p99 50.8 ms, máximo 1016.5 ms
+tcpdump:
+765418 packets captured
+765418 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794980691.403472,46
+1794980691.409317,1242
+Listo: /root/lab/datos/c04
+== Corrida c05  A=172.18.51.147 → B=172.18.48.1  (129 fases, 979 s de tráfico) ==
+fase01  base      4 Mbit/s  16 s   descartes en la fase:      0
+fase02  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase03  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase04  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase05  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase06  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase07  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase08  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase09  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase10  salto    20 Mbit/s  12 s   descartes en la fase:  12886
+fase11  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase12  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase13  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase14  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase15  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase16  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase17  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase18  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase19  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase20  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase21  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase22  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase23  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase24  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase25  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase26  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase27  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase28  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase29  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase30  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase31  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase32  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase33  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase34  salto    30 Mbit/s  15 s   descartes en la fase:  31742
+fase35  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase36  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase37  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase38  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase39  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase40  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase41  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase42  salto    30 Mbit/s  15 s   descartes en la fase:  31742
+fase43  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase44  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase45  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase46  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase47  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase48  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase49  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase50  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase51  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase52  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase53  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase54  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase55  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase56  salto    12 Mbit/s  12 s   descartes en la fase:   2885
+fase57  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase58  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase59  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase60  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase61  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase62  rampa    20 Mbit/s  10 s   descartes en la fase:  10732
+fase63  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase64  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase65  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase66  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase67  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase68  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase69  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase70  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase71  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase72  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase73  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase74  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase75  rec       6 Mbit/s  14 s   descartes en la fase:      0
+fase76  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase77  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase78  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase79  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase80  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase81  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase82  salto    12 Mbit/s   8 s   descartes en la fase:   1911
+fase83  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase87  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase88  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase89  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase90  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase91  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase92  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase93  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase94  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase95  rec       5 Mbit/s  10 s   descartes en la fase:      0
+fase96  salto    30 Mbit/s  15 s   descartes en la fase:  31741
+fase97  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase98  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase99  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase100  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase101  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase102  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase103  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase104  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase105  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase106  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase107  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase108  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase109  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase110  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase111  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase112  salto    14 Mbit/s  10 s   descartes en la fase:   4482
+fase113  rec       4 Mbit/s  11 s   descartes en la fase:      0
+fase114  salto    20 Mbit/s  15 s   descartes en la fase:  16116
+fase115  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase116  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase117  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase118  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase119  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase120  rampa    14 Mbit/s  10 s   descartes en la fase:   4482
+fase121  rec       6 Mbit/s  13 s   descartes en la fase:      0
+fase122  salto    20 Mbit/s  12 s   descartes en la fase:  12886
+fase123  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase124  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase125  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase126  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase127  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase128  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase129  rec       4 Mbit/s  11 s   descartes en la fase:      0
+
+== Resumen c05 ==
+Descartes TBF en la corrida:  260935
+Contador acumulado:  JSON = 1258614   texto (dropped) = 1258614
+Paquetes en la traza: 777683   Muestras de cola: 19940
+Intervalo entre muestras: medio 52.3 ms, p99 50.8 ms, máximo 30721.9 ms
+tcpdump:
+777683 packets captured
+777683 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794981703.155683,46
+1794981703.161230,1242
+Listo: /root/lab/datos/c05
+== Corrida c06  A=172.18.51.147 → B=172.18.48.1  (129 fases, 973 s de tráfico) ==
+fase01  base      6 Mbit/s  19 s   descartes en la fase:      0
+fase02  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase03  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase07  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase08  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase09  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase10  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase11  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase12  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase13  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase14  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase15  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase16  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase17  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase18  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase19  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase20  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase21  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase22  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase23  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase24  salto    30 Mbit/s  12 s   descartes en la fase:  25386
+fase25  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase26  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase27  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase28  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase29  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase30  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase31  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase32  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase33  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase34  salto    30 Mbit/s  10 s   descartes en la fase:  21149
+fase35  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase36  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase37  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase38  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase39  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase40  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase41  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase42  salto    20 Mbit/s  10 s   descartes en la fase:  10732
+fase43  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase44  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase45  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase46  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase47  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase48  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase49  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase50  salto    30 Mbit/s  12 s   descartes en la fase:  25387
+iperf3 falló en fase51 (ver /root/lab/datos/c06/c06_fase51.json)
+Corrida c06 abortada. Sus archivos quedaron en /root/lab/datos/fallidas/c06_012549. Se puede repetir.
+== Se detuvo en c06 ==
+== Corrida c06  A=172.18.51.147 → B=172.18.48.1  (129 fases, 973 s de tráfico) ==
+fase01  base      6 Mbit/s  19 s   descartes en la fase:      0
+fase02  salto    14 Mbit/s   8 s   descartes en la fase:   3578
+fase03  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase04  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase05  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase06  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase07  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase08  rampa    12 Mbit/s   6 s   descartes en la fase:   1424
+fase09  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase10  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase11  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase12  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase13  rampa    10 Mbit/s   4 s   descartes en la fase:    104
+fase14  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase15  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase16  salto    30 Mbit/s   8 s   descartes en la fase:  16913
+fase17  rec       4 Mbit/s  13 s   descartes en la fase:      0
+fase18  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase19  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase20  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase21  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase22  rampa    20 Mbit/s   6 s   descartes en la fase:   6424
+fase23  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase24  salto    30 Mbit/s  12 s   descartes en la fase:  25387
+fase25  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase26  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase27  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase28  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase29  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase30  rampa    12 Mbit/s   8 s   descartes en la fase:   1911
+fase31  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase32  salto    12 Mbit/s  15 s   descartes en la fase:   3616
+fase33  rec       4 Mbit/s  10 s   descartes en la fase:      0
+fase34  salto    30 Mbit/s  10 s   descartes en la fase:  21149
+fase35  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase36  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase37  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase38  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase39  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase40  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase41  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase42  salto    20 Mbit/s  10 s   descartes en la fase:  10732
+fase43  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase44  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase45  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase46  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase47  rampa    10 Mbit/s   3 s   descartes en la fase:     68
+fase48  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase49  rec       5 Mbit/s  13 s   descartes en la fase:      0
+fase50  salto    30 Mbit/s  12 s   descartes en la fase:  25386
+fase51  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase52  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase53  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase54  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase55  rampa    10 Mbit/s   5 s   descartes en la fase:    139
+fase56  rampa    14 Mbit/s   8 s   descartes en la fase:   3578
+fase57  rec       6 Mbit/s  11 s   descartes en la fase:      0
+fase58  salto    12 Mbit/s  12 s   descartes en la fase:   2885
+fase59  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase60  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase61  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase62  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase63  rampa    10 Mbit/s   4 s   descartes en la fase:    104
+fase64  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase65  rec       5 Mbit/s  15 s   descartes en la fase:      0
+fase66  salto    14 Mbit/s  12 s   descartes en la fase:   5385
+fase67  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase68  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase69  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase70  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase71  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase72  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase73  rec       5 Mbit/s  14 s   descartes en la fase:      0
+fase74  salto    30 Mbit/s   8 s   descartes en la fase:  16912
+fase75  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase76  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase77  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase78  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase79  rampa  10.5 Mbit/s   4 s   descartes en la fase:    312
+fase80  rampa    12 Mbit/s  10 s   descartes en la fase:   2398
+fase81  rec       4 Mbit/s  14 s   descartes en la fase:      0
+fase82  salto    14 Mbit/s  10 s   descartes en la fase:   4482
+fase83  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase84  rampa     8 Mbit/s   5 s   descartes en la fase:      0
+fase85  rampa     9 Mbit/s   5 s   descartes en la fase:      0
+fase86  rampa   9.5 Mbit/s   5 s   descartes en la fase:      0
+fase87  rampa  10.5 Mbit/s   5 s   descartes en la fase:    399
+fase88  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase89  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase90  salto    12 Mbit/s  10 s   descartes en la fase:   2398
+fase91  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase92  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase93  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase94  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase95  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase96  rampa    20 Mbit/s   8 s   descartes en la fase:   8579
+fase97  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase98  salto    20 Mbit/s   8 s   descartes en la fase:   8578
+fase99  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase100  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase101  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase102  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase103  rampa    10 Mbit/s   3 s   descartes en la fase:     70
+fase104  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase105  rec       5 Mbit/s  12 s   descartes en la fase:      0
+fase106  salto    14 Mbit/s  15 s   descartes en la fase:   6741
+fase107  rec       6 Mbit/s  12 s   descartes en la fase:      0
+fase108  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase109  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase110  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase111  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase112  rampa    14 Mbit/s   6 s   descartes en la fase:   2766
+fase113  rec       4 Mbit/s  15 s   descartes en la fase:      0
+fase114  rampa     8 Mbit/s   3 s   descartes en la fase:      0
+fase115  rampa     9 Mbit/s   3 s   descartes en la fase:      0
+fase116  rampa   9.5 Mbit/s   3 s   descartes en la fase:      0
+fase117  rampa  10.5 Mbit/s   3 s   descartes en la fase:    224
+fase118  rampa    20 Mbit/s   8 s   descartes en la fase:   8578
+fase119  rec       4 Mbit/s  12 s   descartes en la fase:      0
+fase120  salto    20 Mbit/s  12 s   descartes en la fase:  12886
+fase121  rec       6 Mbit/s  15 s   descartes en la fase:      0
+fase122  rampa     8 Mbit/s   4 s   descartes en la fase:      0
+fase123  rampa     9 Mbit/s   4 s   descartes en la fase:      0
+fase124  rampa   9.5 Mbit/s   4 s   descartes en la fase:      0
+fase125  rampa    10 Mbit/s   4 s   descartes en la fase:    103
+fase126  rampa    14 Mbit/s   6 s   descartes en la fase:   2674
+fase127  rec       6 Mbit/s  10 s   descartes en la fase:      0
+fase128  salto    30 Mbit/s  12 s   descartes en la fase:  25387
+fase129  rec       6 Mbit/s  14 s   descartes en la fase:      0
+
+== Resumen c06 ==
+Descartes TBF en la corrida:  258745
+Contador acumulado:  JSON = 1643682   texto (dropped) = 1643682
+Paquetes en la traza: 751355   Muestras de cola: 19826
+Intervalo entre muestras: medio 56.1 ms, p99 50.8 ms, máximo 105209.9 ms
+tcpdump:
+751355 packets captured
+751355 packets received by filter
+0 packets dropped by kernel
+Primeras filas de la traza:
+frame.time_epoch,frame.len
+1794983306.797243,46
+1794983306.803328,1242
+Listo: /root/lab/datos/c06
