@@ -1,8 +1,5 @@
 # Predicción de congestión en un enlace: captura de tráfico y selección de modelo
 
-Laboratorio de Inteligencia Artificial (Universidad Sergio Arboleda, 2026-2).
-El informe está en `informe/informe.pdf`.
-
 ## Estructura
 
 ```
@@ -47,9 +44,6 @@ python3 seleccion.py   # ventanas + selección de hiperparámetros y umbral en v
 python3 prueba.py      # evaluación única en prueba (c05–c06)
 python3 figuras.py     # figuras del informe
 ```
-
-En Linux o WSL basta con `bash analisis/ejecutar.sh`. Si los datos están en otra carpeta,
-indícala con la variable de entorno `DATOS_LAB`.
 
 | Archivo | Qué hace |
 |---|---|
